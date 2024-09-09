@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "nom": "John Doe",
+        "email": "john.doe@example.com",
+        "telephone": "+216 12345678",
+        "pass": "password123",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "nom": "Bob Martin",
+        "email": "bob.martin@example.com",
+        "telephone": "+216 87654321",
+        "pass": "mypassword",
+        "role": "client"
+    },
+    {
+        "id": 3,
+        "nom": "Claire Lefevre",
+        "email": "claire.lefevre@example.com",
+        "telephone": "+216 98765432",
+        "pass": "securepass",
+        "role": "client"
+    }
+]

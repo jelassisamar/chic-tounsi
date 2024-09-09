@@ -1,0 +1,45 @@
+[
+   
+    {
+  "id": 1,
+  "src": "images/carousel/carou1.jpg",
+  "alt": "Carousel 1"
+},
+{
+  "id": 2,
+  "src": "images/carousel/carou2.jpg",
+  "alt": "Carousel 2"
+},
+{
+  "id": 3,
+  "src": "images/carousel/carou3.jpg",
+  "alt": "Carousel 3"
+},
+{
+  "id": 4,
+  "src": "images/carousel/carou4.jpg",
+  "alt": "Carousel 4"
+},
+{
+  "id": 5,
+  "src": "images/carousel/carou5.jpg",
+  "alt": "Carousel 5"
+},
+{
+  "id": 6,
+  "src": "images/carousel/carou6.jpg",
+  "alt": "Carousel 6"
+},
+{
+  "id": 7,
+  "src": "images/carousel/carou7.jpg",
+  "alt": "Carousel 7"
+},
+{
+  "id": 8,
+  "src": "images/carousel/carou8.jpg",
+  "alt": "Carousel 8"
+}
+
+
+]

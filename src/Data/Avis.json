@@ -1,0 +1,37 @@
+[
+    {
+      "avis": [
+        {
+          "id": 4,
+          "auteur": "Alice",
+          "commentaire": "Très bon produit, je recommande!",
+          "email": "alice@example.com"
+        },
+        {
+          "id": 5,
+          "auteur": "Bob",
+          "commentaire": "Excellent! Vaut chaque centime.",
+          "email": "bob@example.com"
+        },
+        { 
+          "id": 3,
+          "auteur": "Claire",
+          "commentaire": "Produit correct mais livraison lente.",
+          "email": "claire@example.com"
+        },
+        {
+          "id": 4,
+          "auteur": "David",
+          "commentaire": "Bonne qualité, mais un peu cher.",
+          "email": "david@example.com"
+        },
+        {  
+          "id": 5,
+          "auteur": "Eva",
+          "commentaire": "Parfait! Le produit est comme décrit.",
+          "email": "eva@example.com"
+        }
+      ]
+    }
+  ]
+  
